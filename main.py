@@ -23,11 +23,11 @@ def backwards():
 
 # Creating a function to turn clockwise.
 def turn_clockwise():
-    akilesh.right(90)
+    akilesh.right(10)
 
 # Creating a function to turn counter - clockwise.
 def turn_counter_clockwise():
-    akilesh.left(90)
+    akilesh.left(10)
 
 # Creating a function to clear the screen and bring the turtle to the initial position.
 def clear_screen():
